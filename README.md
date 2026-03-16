@@ -26,7 +26,7 @@ java PseudoCodeJavaFile
  
 ## Step 3 — To switch questions
  
-Go to the `main()` method at the bottom of `AllQuestions.java` and uncomment the method you want to run:
+Go to the `main()` method at the bottom of `PseudoCodeJava.java` and uncomment the method you want to run:
  
 ```java
 // ============================================================
